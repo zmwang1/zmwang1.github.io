@@ -1,0 +1,106 @@
+.contenter {
+	width: 1350px;
+	height: 680px;
+	margin-top: 40px;
+}
+
+.contact {
+	width: 324px;
+	height: 33px;
+	margin: 30px auto;
+}
+
+#contact_one {
+	color: white;
+	background-color: #0F74E3;
+}
+
+.contact div {
+	width: 138px;
+	height: 100%;
+	margin: 0 12px;
+	float: left;
+	text-align: center;
+	line-height: 33px;
+	font-size: 16px;
+	color: #404140;
+	background-color: #F2F1EF;
+	cursor: pointer;
+}
+
+.contact div:hover {
+	color: white;
+	background-color: #0F74E3;
+}
+
+.leave_word {
+	display: none;
+}
+
+.contact_left {
+	width: 280px;
+	height: 200px;
+	margin: 70px 20px 0 170px;
+	float: left;
+}
+
+.contact_left h2 {
+	font-size: 16px;
+}
+
+.contact_left p {
+	font-size: 14px;
+	line-height: 30px;
+}
+
+.contact_img {
+	width: 588px;
+	height: 464px;
+	float: right;
+	margin: 33px 182px 0 0;
+}
+
+.contact_img img {
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+.leave_word {
+	width: 660px;
+	height: 400px;
+	margin: 33px 0 0 222px;
+}
+
+#xing {
+	color: #FE0E4E;
+}
+
+.leave_word form div span {
+	font-size: 14px;
+	color: #555451;
+}
+
+.leave_word form div {
+	margin: 15px;
+}
+
+.leave_word form input {
+	width: 252px;
+	height: 34px;
+}
+
+.leave_word form textarea {
+	float: right;
+}
+
+#submits {
+	clear: both;
+	width: 84px;
+	height: 36px;
+	margin: 15px 57px;
+	background-color: #0F74E3;
+	color: white;
+	border: none;
+	cursor: pointer;
+}
